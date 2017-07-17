@@ -1,0 +1,19 @@
+{
+  "name": "gulp-jasmine-protractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webdriver-update": "webdriver-manager update"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-protractor": "^4.1.0",
+    "jasmine-reporters": "^2.2.1",
+    "protractor": "^5.1.2",
+    "yargs": "^8.0.2"
+  }
+}
